@@ -10,6 +10,12 @@ DVMA is an educational tool that offers hands-on experience in identifying and e
 * Safe Environment: Provides a controlled setting to explore and experiment with vulnerabilities without impacting real-world systems.
 * Hands-On Practice: Encourages practical application of security concepts, fostering a deeper understanding of macOS-specific challenges and best practices.
 
+## Installing DVMA
+* Download the DVMA.dmg file.
+* Double-click the DVMA.dmg file to open it.
+* Copy the DVMA.app file to the Applications folder.
+* Launch DVMA from the Application Launchpad.
+  
 ## Vulnerabilities Included:
 
 1. Excessive Permissions Granted
