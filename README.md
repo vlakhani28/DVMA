@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="200" height="100"/>
+  <img src="logo.png" width="200" />
 </p>
 
 # Damn Vulnerable macOS Application (DVMA)
