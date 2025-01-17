@@ -8,6 +8,8 @@ Damn Vulnerable macOS Application (DVMA) is a purposefully designed macOS applic
 
 DVMA is an educational tool that offers hands-on experience in identifying and exploiting various vulnerabilities. It is ideal for those looking to sharpen their skills in areas such as reverse engineering, malware analysis, and penetration testing, all within the unique ecosystem of macOS.
 
+</p>
+
 ## Key Features:
 
 * Simulated Vulnerabilities: Learn about and exploit common security flaws in macOS applications, including insecure data storage, improper code signing, weak encryption, and more.
