@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Image.heic" />
+</p>
+
 # Damn Vulnerable macOS Application (DVMA)
 Damn Vulnerable macOS Application (DVMA) is a purposefully designed macOS application that is riddled with security vulnerabilities. Its primary goal is to provide macOS enthusiasts, developers, and security researchers with a safe and controlled environment to learn, practice, and understand macOS application security.
 
