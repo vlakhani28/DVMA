@@ -19,7 +19,12 @@ DVMA is an educational tool that offers hands-on experience in identifying and e
 * Double-click the DVMA.dmg file to open it.
 * Copy the DVMA.app file to the Applications folder.
 * Launch DVMA from the Application Launchpad.
-  
+
+<video width="320" height="240" controls>
+  <source src="Installation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video
+
 ## Vulnerabilities Included:
 
 1. Excessive Permissions Granted
