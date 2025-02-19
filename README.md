@@ -20,8 +20,6 @@ DVMA is an educational tool that offers hands-on experience in identifying and e
 * Copy the DVMA.app file to the Applications folder.
 * Launch DVMA from the Application Launchpad.
 
-[![Watch the video]()](https://raw.githubusercontent.com/vlakhani28/DVMA/refs/heads/main/Installation.mp4)
-
 ## Vulnerabilities Included:
 
 1. Excessive Permissions Granted
