@@ -23,7 +23,7 @@ DVMA is an educational tool that offers hands-on experience in identifying and e
 <video width="320" height="240" controls>
   <source src="Installation.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video
+</video>
 
 ## Vulnerabilities Included:
 
