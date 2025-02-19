@@ -20,10 +20,7 @@ DVMA is an educational tool that offers hands-on experience in identifying and e
 * Copy the DVMA.app file to the Applications folder.
 * Launch DVMA from the Application Launchpad.
 
-<video width="320" height="240" controls>
-  <source src="Installation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)]([https://raw.githubusercontent.com/username/repository/branch/path/to/](https://github.com/vlakhani28/DVMA/Installation.mp4)
 
 ## Vulnerabilities Included:
 
