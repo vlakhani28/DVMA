@@ -48,4 +48,4 @@ DVMA is an educational tool that offers hands-on experience in identifying and e
 ## Disclaimer
 DVMA is intended solely for educational purposes. You can use this application in a secure and isolated environment. The developers and contributors are not responsible for any misuse or harm caused by the application. When working with security tools and concepts, abide by ethical guidelines and legal frameworks.
 
-This app is created solely by Vaibhav Lakhani and is not affiliated with, endorsed by, or representative of Kroll. Any views, opinions, or content expressed within the app are those of the individual creator and do not reflect the views or opinions of Kroll.
+This app is created solely by Vaibhav Lakhani and is not affiliated with, endorsed by, or representative of any company. Any views, opinions, or content expressed within the app are those of the individual creator and do not reflect the views or opinions of Kroll.
